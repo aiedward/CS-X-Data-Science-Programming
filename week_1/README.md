@@ -1,11 +1,10 @@
-week_1 
-==========
+#week_1 
 ***
-Assigment  
+##Assigment  
  *   hw_0 
       1. Modification/immitation of TA's code  
 
-Progress    
+##Progress    
  *    In class  
       1. Install GitHub  
       2. Basic info of the course
