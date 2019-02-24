@@ -16,3 +16,4 @@ Progress
       2. Think about term project
       3. Self-learn web-scraping with Julia programming
       4. Get familiar with Julia programming
+      5. Self-learn Markdown syntax
