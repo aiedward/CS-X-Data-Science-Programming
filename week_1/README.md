@@ -4,7 +4,7 @@ week_1
 Assigment
 ------------
  *   hw_0 
-      1. Modification/immitation of TA's code  
+      1. Modification/immitation of [TA's](https://github.com/MiccWan/Political-News-Analysis/blob/master/final_demo/final_report.ipynb?fbclid=IwAR30_iAZHSiTsp3_DPQ6KHKSyfcu0RF-NRKkvZr91PQN43_UhhgzVb0urC0) code  
 
 Progress   
 ----------
