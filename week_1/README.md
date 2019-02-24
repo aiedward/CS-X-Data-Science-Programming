@@ -1,13 +1,13 @@
-week_1
+week_1\n
 week_1 notebook
 
-Assigment
+Assigment\n
 hw_0 Modification/immitation of TA's code
 
-Progress
-In class
-Install GitHub
-Basic info of the course
+Progress\n
+In class\n
+Install GitHub\n
+Basic info of the course\n
 
-At home
-Finish assignment
+At home\n
+Finish assignment\n
