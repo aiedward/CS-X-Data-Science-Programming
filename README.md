@@ -13,3 +13,4 @@ Hello, my name is 王俊凱 (Lawrence Wang). I am currently an accounting-major 
       2. Think about term project
       3. Get familiar with Julia programming
       4. Self-learn web-scraping with Julia programming
+      5. Self-learn Markdown syntax
