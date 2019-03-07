@@ -16,8 +16,8 @@ Hello, my name is 王俊凱 (Lawrence Wang). I am currently an accounting-major 
       5. Self-learn Markdown syntax
 
 ### week_2
-*     In class
+ *    In class
       1. Introduction of various topics
       2. Topic choosing
       3. Think about the goal for this course
-*     At home
+ *    At home
