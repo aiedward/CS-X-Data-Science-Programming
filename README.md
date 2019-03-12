@@ -23,3 +23,4 @@ Hello, my name is 王俊凱 (Lawrence Wang). I am currently an accounting-major 
  *    At home
       1. Get familiar with RNN and LSTM
       2. Get familiar with money laundering related knowledge
+      3. Self-learn web-scraping with Python
