@@ -21,3 +21,5 @@ Hello, my name is 王俊凱 (Lawrence Wang). I am currently an accounting-major 
       2. Topic choosing
       3. Think about the goal for this course
  *    At home
+      1. Get familiar with RNN and LSTM
+      2. Get familiar with money laundering related knowledge
