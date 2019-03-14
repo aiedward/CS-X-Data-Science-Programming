@@ -1,7 +1,7 @@
 # CS+X Data Science Programming 2019
 CS+X 4001 Data Science Programming
 ## Know more about me
-Hello, my name is 王俊凱 (Lawrence Wang). I am currently an accounting-major graduate student with a passion for programming. This semester I would like to learn Julia programming and implement it on data analysis. Hope everything goes well :)))   
+Hello, my name is 王俊凱 (Lawrence Wang). I am currently an accounting-major graduate student with a passion for programming. This semester I would like to learn Julia programming and python and implement them on data analysis. Hope everything goes well :)))   
 ## Progress Report
 ***
 ### week_1 
@@ -24,3 +24,12 @@ Hello, my name is 王俊凱 (Lawrence Wang). I am currently an accounting-major 
       1. Get familiar with RNN and LSTM
       2. Get familiar with money laundering related knowledge
       3. Self-learn web-scraping with Python
+
+### week_3
+*     In class
+      1. Introduction of different relationship between data 
+      2. Introduction of Exploratory Data Analysis (EDA)
+      3. Brief introduction of Name-entity Recognition (NER)
+*     At home
+      1. Collect links from Google with key words
+      2. Collect articles from the link with crawling
