@@ -33,3 +33,5 @@ Hello, my name is 王俊凱 (Lawrence Wang). I am currently an accounting-major 
  *    At home
       1. Collect links from Google with key words
       2. Collect articles from the link with crawling
+      3. Draw plots with python with Chinese character display
+      4. Adjust machine learning model for choosing Chinese name
