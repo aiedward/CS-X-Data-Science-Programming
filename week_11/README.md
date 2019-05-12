@@ -4,6 +4,7 @@ week_11
 Assigment
 ------------
  *   Conduct text analysis on term project data  
+ *   Conduct text analysis for assingment 
 
 Progress   
 ----------
@@ -17,4 +18,6 @@ Progress
       3. Using standford coreNLP package to conduct text mining 
       4. Define pattern for sentences 
       5. Human intelligence XD(label sentence by hand to test accuracy)
+      6. Plotting a network 
+      7. Using DBSCAN to classify data
 
